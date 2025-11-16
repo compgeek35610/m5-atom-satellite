@@ -22,6 +22,10 @@ G23  External LED Ground
 
 Use a common-cathode RGB LED with G23 as ground.
 
+# Recomended LED
+AU: https://www.jaycar.com.au/tricolour-rgb-5mm-led-600-1000mcd-round-diffused/
+USA: https://www.adafruit.com/product/302
+
 ## Installation and Usage
 1. Clone the repository.  
 2. Open the M5AtomMatrix_Companionv4_SingleButtonSatellite.ino file in Arduino IDE.  
