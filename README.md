@@ -46,7 +46,7 @@ Cannot connect to Companion: check host IP and port in WiFi portal settings.
 Brightness mismatches: ensure Companion is sending BRIGHTNESS commands.
 
 ## Version
-v1.0.0
+v1.2.0
 
 ## License
 MIT License
